@@ -1,0 +1,2 @@
+echo "🧹 Formatando código com Biome... \n"
+npx lint-staged

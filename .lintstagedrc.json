@@ -1,0 +1,6 @@
+{
+  "*.ts": [
+    "npx biome check 'src/app/*.{tsx,jsx,ts,js}'",
+    "npx biome format 'src/app/*.{tsx,jsx,ts,js}' --write"
+  ]
+}
